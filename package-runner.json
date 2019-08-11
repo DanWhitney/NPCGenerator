@@ -1,0 +1,10 @@
+{
+  "name": "built_gand",
+  "version": "1.0.0",
+  "description": "used just for starting the ",
+  "scripts": {
+    "start": "node ./bundle.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
