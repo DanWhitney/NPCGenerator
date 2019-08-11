@@ -1,3 +1,3 @@
-# GAND Stack
-The use app uses GraphQL Apollo Neo4j Database
+# NPC Generator
+An application to create NPCS on the fly
 
