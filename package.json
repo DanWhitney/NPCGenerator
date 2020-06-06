@@ -34,7 +34,7 @@
     "apollo-cache-inmemory": "^1.6.2",
     "apollo-client": "^2.6.3",
     "apollo-link-http": "^1.5.15",
-    "apollo-server": "^2.8.1",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.8.1",
     "dotenv": "^8.0.0",
     "neo4j-driver": "^1.7.5",
