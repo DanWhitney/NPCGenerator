@@ -35,7 +35,7 @@
     "apollo-client": "^2.6.3",
     "apollo-link-http": "^1.5.15",
     "apollo-server": "^2.8.1",
-    "apollo-server-express": "^2.8.1",
+    "apollo-server-express": "^2.14.2",
     "dotenv": "^8.0.0",
     "neo4j-driver": "^1.7.5",
     "neo4j-graphql-js": "^2.6.3",
